@@ -82,7 +82,7 @@ input[type="button"]:active{  /*when you click the button*/
     background-color: beige;
     align-self: center;
     width: 23%;
-    height: 312px;
+    height: 300px;
     margin-left: 37%;
     border: 3px solid rgb(96, 95, 95);
     display: block;
@@ -98,5 +98,5 @@ input[type="button"]:active{  /*when you click the button*/
 
 .one{
     margin-top: 7%
-    margin-left:9%;
+   
 }
